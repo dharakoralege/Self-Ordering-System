@@ -1,0 +1,21 @@
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.exe.config
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.exe
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.pdb
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.csproj.AssemblyReference.cache
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Properties.Resources.resources
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.csproj.GenerateResource.cache
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.csproj.CoreCompileInputs.cache
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.exe
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.pdb
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\bin\Debug\Guna.UI2.dll
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.csproj.CopyComplete
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAddProducts.resources
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminProducts.resources
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminStaff.resources
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAddStaff.resources
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormEditPRoducts2.resources
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminLogin.resources
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form01StartingPAge.resources
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.FormBill.resources
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.FormBillitems.resources
+C:\Users\94777\source\repos\Mcdonald Sample project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormNEW.resources

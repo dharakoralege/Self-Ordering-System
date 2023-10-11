@@ -1,0 +1,137 @@
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.exe.config
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.exe
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.pdb
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\bin\Debug\Guna.UI2.dll
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.AssemblyReference.cache
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAddProducts.resources
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAddStaff.resources
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminLogin.resources
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminProducts.resources
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.FormBill.resources
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.FormBillitems.resources
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminStaff.resources
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form01StartingPAge.resources
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Properties.Resources.resources
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.GenerateResource.cache
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.CoreCompileInputs.cache
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.CopyComplete
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.exe
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.pdb
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form02Ordering.resources
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form03Bill.resources
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form1.resources
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form2.resources
+C:\Users\94777\source\repos\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormEditPRoducts.resources
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.exe.config
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.exe
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.pdb
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\bin\Debug\Guna.UI2.dll
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.AssemblyReference.cache
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAddProducts.resources
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAddStaff.resources
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminLogin.resources
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminProducts.resources
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.FormBill.resources
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.FormBillitems.resources
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminStaff.resources
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormEditPRoducts.resources
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form02Ordering.resources
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form01StartingPage.resources
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form03Bill.resources
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Properties.Resources.resources
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.GenerateResource.cache
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.CoreCompileInputs.cache
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.CopyComplete
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.exe
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.pdb
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormBillToCard.resources
+C:\Users\94777\Desktop\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormBillToCash.resources
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.exe.config
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.exe
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.pdb
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\bin\Debug\Guna.UI2.dll
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.AssemblyReference.cache
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAddProducts.resources
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAddStaff.resources
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminLogin.resources
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminProducts.resources
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.FormBill.resources
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.FormBillitems.resources
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminStaff.resources
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form02Ordering.resources
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form01StartingPage.resources
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormBillToCard.resources
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormBillToCash.resources
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Properties.Resources.resources
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.GenerateResource.cache
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.CoreCompileInputs.cache
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.CopyComplete
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.exe
+C:\Users\94777\Desktop\CSE Final Project (3)\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.pdb
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.exe.config
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.exe
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.pdb
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\bin\Debug\Guna.UI2.dll
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.AssemblyReference.cache
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAddProducts.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAddStaff.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminLogin.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminProducts.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.FormBill.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.FormBillitems.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminStaff.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form02Ordering.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form01StartingPage.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormBillToCard.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormBillToCash.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Properties.Resources.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.GenerateResource.cache
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.CoreCompileInputs.cache
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.CopyComplete
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.exe
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.pdb
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.exe.config
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.exe
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.pdb
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\bin\Debug\Guna.UI2.dll
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.AssemblyReference.cache
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAddProducts.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAddStaff.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminLogin.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminProducts.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.FormBill.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.FormBillitems.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminStaff.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form02Ordering.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form01StartingPage.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormBillToCard.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormBillToCash.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Properties.Resources.resources
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.GenerateResource.cache
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.CoreCompileInputs.cache
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.CopyComplete
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.exe
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.pdb
+C:\Users\94777\Desktop\CSE Final Project Final\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.Form1.resources
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.exe.config
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.exe
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\bin\Debug\Mcdonald Sample project.pdb
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\bin\Debug\Guna.UI2.dll
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.AssemblyReference.cache
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAddProducts.resources
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAddStaff.resources
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminLogin.resources
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminProducts.resources
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.FormBill.resources
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.ADmin.FormBillitems.resources
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormAdminStaff.resources
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form02Ordering.resources
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Form01StartingPage.resources
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormBillToCard.resources
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.FormBillToCash.resources
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald_Sample_project.Properties.Resources.resources
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.GenerateResource.cache
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.CoreCompileInputs.cache
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\CSE Final project.csproj.CopyComplete
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.exe
+C:\Users\94777\Desktop\CSE Final Project Final - Copy\CSE Final Project\Mcdonald Sample project\obj\Debug\Mcdonald Sample project.pdb
